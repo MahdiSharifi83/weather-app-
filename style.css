@@ -5,7 +5,7 @@
 .box {
   width: 100%;
   height: 100vh;
-  background-image: url(images/noaa-0ETSZYPjvDo-unsplash.jpg);
+  background-image: url(./images/noaa-0ETSZYPjvDo-unsplash.jpg);
   background-size: cover;
   display: flex;
   justify-content: center;
